@@ -7,3 +7,4 @@ O que eu aprendi até o momento
  - Criei um novo projeto
  - Atualizei o README.md com o Codespaces
  - Agora vou fazer o commit e o push juntos
+ - Vou subir o commit no código 
